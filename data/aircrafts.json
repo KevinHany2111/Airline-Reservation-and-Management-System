@@ -1,0 +1,10 @@
+[
+    {
+        "modelName": "Boeing 737",
+        "totalSeats": 180
+    },
+    {
+        "modelName": "Airbus A320",
+        "totalSeats": 100
+    }
+]

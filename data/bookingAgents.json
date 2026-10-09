@@ -1,0 +1,26 @@
+[
+    {
+        "passwordHash": "14067262212120247232",
+        "role": "BookingAgent",
+        "userId": "BA737",
+        "username": "keev"
+    },
+    {
+        "passwordHash": "6987040491701236771",
+        "role": "BookingAgent",
+        "userId": "BA712",
+        "username": "agent"
+    },
+    {
+        "passwordHash": "1708010147784623563",
+        "role": "BookingAgent",
+        "userId": "BA607",
+        "username": "booking agent"
+    },
+    {
+        "passwordHash": "10042000878218832836",
+        "role": "BookingAgent",
+        "userId": "BA020",
+        "username": "Agent"
+    }
+]

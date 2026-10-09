@@ -1,0 +1,259 @@
+[
+    {
+        "boardingTime": "2025-11-02 07:30",
+        "cancelled": false,
+        "checkedIn": true,
+        "departureTime": "2025-11-02 09:00",
+        "flightNumber": "AA123",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R879",
+        "seatId": "1B"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": true,
+        "checkedIn": false,
+        "departureTime": "2025-11-03 09:00",
+        "flightNumber": "AA124",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R935",
+        "seatId": "1A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-11-03 09:00",
+        "flightNumber": "AA124",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R966",
+        "seatId": "1A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-11-03 09:00",
+        "flightNumber": "AA124",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R207",
+        "seatId": "2A"
+    },
+    {
+        "boardingTime": "2025-11-03 07:30",
+        "cancelled": false,
+        "checkedIn": true,
+        "departureTime": "2025-11-03 09:00",
+        "flightNumber": "AA124",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R472",
+        "seatId": "1C"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-11-01 02:00",
+        "flightNumber": "AA122",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "cardNumber": "1111222233334444",
+            "method": "CreditCard"
+        },
+        "reservationId": "R416",
+        "seatId": "1A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-11-01 02:00",
+        "flightNumber": "AA122",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R087",
+        "seatId": "2A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": true,
+        "checkedIn": false,
+        "departureTime": "2025-11-03 09:00",
+        "flightNumber": "AA124",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R015",
+        "seatId": "1D"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": true,
+        "checkedIn": false,
+        "departureTime": "2025-10-21 10:00",
+        "flightNumber": "A100",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "cardNumber": "****",
+            "method": "CreditCard"
+        },
+        "reservationId": "R031",
+        "seatId": "2A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-10-21 11:00",
+        "flightNumber": "A100",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R577",
+        "seatId": "3A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": true,
+        "checkedIn": false,
+        "departureTime": "2025-10-20 07:00",
+        "flightNumber": "AA111",
+        "passengerId": "P382",
+        "payment": {
+            "amount": 500.0,
+            "cardNumber": "****",
+            "method": "CreditCard"
+        },
+        "reservationId": "R215",
+        "seatId": "2A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-10-20 08:00",
+        "flightNumber": "AA111",
+        "passengerId": "P382",
+        "payment": {
+            "amount": 500.0,
+            "method": "Paypal"
+        },
+        "reservationId": "R471",
+        "seatId": "1D"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": true,
+        "checkedIn": false,
+        "departureTime": "2025-10-25 09:00",
+        "flightNumber": "AA112",
+        "passengerId": "P506",
+        "payment": {
+            "amount": 500.0,
+            "cardNumber": "****",
+            "method": "CreditCard"
+        },
+        "reservationId": "R286",
+        "seatId": "2A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-10-25 10:00",
+        "flightNumber": "AA112",
+        "passengerId": "P506",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R280",
+        "seatId": "1D"
+    },
+    {
+        "boardingTime": "2025-10-25 10:30",
+        "cancelled": false,
+        "checkedIn": true,
+        "departureTime": "2025-10-25 12:00",
+        "flightNumber": "AA112",
+        "passengerId": "P506",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R708",
+        "seatId": "1C"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-11-01 09:00",
+        "flightNumber": "AA132",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "cardNumber": "****",
+            "method": "CreditCard"
+        },
+        "reservationId": "R647",
+        "seatId": "2A"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": true,
+        "checkedIn": false,
+        "departureTime": "2025-11-01 09:00",
+        "flightNumber": "AA132",
+        "passengerId": "P248",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R982",
+        "seatId": "2B"
+    },
+    {
+        "boardingTime": "1970-01-01 02:00",
+        "cancelled": false,
+        "checkedIn": false,
+        "departureTime": "2025-11-03 09:00",
+        "flightNumber": "AA124",
+        "passengerId": "P241",
+        "payment": {
+            "amount": 500.0,
+            "method": "Cash"
+        },
+        "reservationId": "R912",
+        "seatId": "1B"
+    }
+]

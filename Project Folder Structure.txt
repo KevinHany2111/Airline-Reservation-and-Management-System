@@ -1,0 +1,133 @@
+AirlineReservationSystem/
+│
+├── data/
+│   │── reports/
+│   │   ├── maintenanceReports.txt
+│   │   ├── operationalReports.txt
+│   │   └── userActivityReports.txt
+│   │
+│   ├── administrators.json
+│   ├── aircrafts.json
+│   ├── bookingAgents.json
+│   ├── flights.json
+│   ├── maintenanceLogs.json
+│   ├── passengers.json
+│   └── reservations.json
+│
+├── include/
+│   ├── core/
+│   │   ├── Aircraft.hpp
+│   │   ├── Flight.hpp
+│   │   ├── MaintenanceLog.hpp
+│   │   ├── Reservation.hpp
+│   │   └── Seat.hpp
+│   │
+│   ├── crew/
+│   │   ├── ICrewMember.hpp
+│   │   ├── FlightAttendent.hpp
+│   │   └── Pilot.hpp
+│   │
+│   ├── external/
+│   │   └── nlohmann/
+│   │       └── json.hpp
+│   │
+│   ├── payment/
+│   │   ├── IPayment.hpp
+│   │   ├── Cash.hpp
+│   │   ├── CreditCard.hpp
+│   │   └── PayPal.hpp
+│   │
+│   ├── reports/
+│   │   ├── IReport.hpp
+│   │   ├── MaintenanceReport.hpp
+│   │   ├── OperationalReport.hpp
+│   │   └── UserActivityReport.hpp
+│   │
+│   ├── repositories/
+│   │   ├── AdministratorRepository.hpp
+│   │   ├── AircraftRepository.hpp
+│   │   ├── BookingAgentRepository.hpp
+│   │   ├── FlightRepository.hpp
+│   │   ├── IRepository.hpp
+│   │   ├── IUserRepository.hpp
+│   │   ├── MaintenanceRepository.hpp
+│   │   ├── PassengerRepository.hpp
+│   │   └── ReservationRepository.hpp
+│   │
+│   ├── roles/
+│   │   ├── IUser.hpp
+│   │   ├── Passenger.hpp
+│   │   ├── Administrator.hpp
+│   │   └── BookingAgent.hpp
+│   │
+│   ├── system/
+│   │   ├── AuthenticationManager.hpp
+│   │   ├── CheckIn.hpp
+│   │   ├── Menu.hpp
+│   │   └── ReservationService.hpp
+│   │
+│   └── utils/
+│       ├── IdGenerator.hpp
+│       ├── JsonHandler.hpp
+│       └── RepositoryUtils.hpp
+│
+├── src/
+│   ├── core/
+│   │   ├── Aircraft.cpp
+│   │   ├── Flight.cpp
+│   │   ├── MaintenanceLog.cpp
+│   │   ├── Reservation.cpp
+│   │   └── Seat.cpp
+│   │
+│   ├── crew/
+│   │   ├── ICrewMember.cpp
+│   │   ├── FlightAttendent.cpp
+│   │   └── Pilot.cpp
+│   │
+│   ├── payment/
+│   │   ├── IPayment.cpp
+│   │   ├── Cash.cpp
+│   │   ├── CreditCard.cpp
+│   │   └── PayPal.cpp
+│   │
+│   ├── reports/
+│   │   ├── IReport.cpp
+│   │   ├── MaintenanceReport.cpp
+│   │   ├── OperationalReport.cpp
+│   │   └── UserActivityReport.cpp
+│   │
+│   ├── repositories/
+│   │   ├── AdministratorRepository.cpp
+│   │   ├── AircraftRepository.cpp
+│   │   ├── BookingAgentRepository.cpp
+│   │   ├── FlightRepository.cpp
+│   │   ├── IRepository.cpp
+│   │   ├── IUserRepository.cpp
+│   │   ├── MaintenanceRepository.cpp
+│   │   ├── PassengerRepository.cpp
+│   │   └── ReservationRepository.cpp
+│   │
+│   ├── roles/
+│   │   ├── IUser.cpp
+│   │   ├── Passenger.cpp
+│   │   ├── Administrator.cpp
+│   │   └── BookingAgent.cpp
+│   │
+│   ├── system/
+│   │   ├── AuthenticationManager.cpp
+│   │   ├── CheckIn.cpp
+│   │   ├── Menu.cpp
+│   │   ├── ReservationService.cpp
+│   │   └── Validator.cpp
+│   │
+│   ├── utils/
+│   │   ├── IdGenerator.cpp
+│   │   ├── JsonHandler.cpp
+│   │   └── RepositoryUtils.cpp
+│   │ 
+│   └── main.cpp
+│   
+├── Makefile
+├── Project Demo Video.mkv
+├── UML Class Diagram
+└── Project Folder Structure.txt

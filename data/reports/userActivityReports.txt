@@ -1,0 +1,16 @@
+
+User Activity Report — 11-2025
+----------------------------------------
+[Note] reservations.json lacks consistent date fields; counts include all reservations.
+Total Passengers: 11
+Active Passengers (with reservations): 4
+Booking Agents: 4
+Administrators: 1
+Total Reservations This Month: 18
+----------------------------------------
+Top Active Passengers:
+1. P248 — 12 Reservations
+2. P506 — 3 Reservations
+3. P382 — 2 Reservations
+4. P241 — 1 Reservations
+----------------------------------------

@@ -1,0 +1,71 @@
+Operational Report — 10-2025
+----------------------------------------
+Total Flights: 3
+Flights Completed: 2
+Flights Delayed: 0
+Flights Canceled: 0
+Upcoming Flights (Scheduled): 1
+Total Reservations Made: 4
+Total Revenue: $2000.00
+----------------------------------------
+Flight Performance:
+1. A100 — Completed (1 Bookings, $500.00)
+2. AA111 — Scheduled (1 Bookings, $500.00)
+3. AA112 — Completed (2 Bookings, $1000.00)
+----------------------------------------
+
+
+
+
+Operational Report — 11-2025
+----------------------------------------
+Total Flights: 4
+Flights Completed: 1
+Flights Delayed: 0
+Flights Canceled: 0
+Upcoming Flights (Scheduled): 3
+Total Reservations Made: 8
+Total Revenue: $4000.00
+----------------------------------------
+Flight Performance:
+1. AA123 — Completed (1 Bookings, $500.00)
+2. AA124 — Scheduled (4 Bookings, $2000.00)
+3. AA122 — Scheduled (2 Bookings, $1000.00)
+4. AA132 — Scheduled (1 Bookings, $500.00)
+----------------------------------------
+
+Operational Report — 09-2025
+----------------------------------------
+Total Flights: 0
+Flights Completed: 0
+Flights Delayed: 0
+Flights Canceled: 0
+Upcoming Flights (Scheduled): 0
+Total Reservations Made: 0
+Total Revenue: $0.00
+----------------------------------------
+Flight Performance:
+----------------------------------------
+
+
+
+
+
+
+Operational Report — 10-205
+----------------------------------------
+Total Flights: 0
+Flights Completed: 0
+Flights Delayed: 0
+Flights Canceled: 0
+Upcoming Flights (Scheduled): 0
+Total Reservations Made: 0
+Total Revenue: $0.00
+----------------------------------------
+Flight Performance:
+----------------------------------------
+
+
+
+
+

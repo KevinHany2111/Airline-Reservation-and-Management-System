@@ -1,0 +1,26 @@
+[
+    {
+        "aircraftModel": "Boeing 737",
+        "description": "Engine vibration check and oil replacement",
+        "engineerName": "Eng/ Ava Davis",
+        "logId": "LOG699"
+    },
+    {
+        "aircraftModel": "Airbus A320",
+        "description": "needs general maintenance",
+        "engineerName": "Eng/ Ava Davis",
+        "logId": "LOG455"
+    },
+    {
+        "aircraftModel": "Boeing 737",
+        "description": "Engin needs check up",
+        "engineerName": "Eng/ Noah Wilson",
+        "logId": "LOG536"
+    },
+    {
+        "aircraftModel": "Boeing 737",
+        "description": "needs check up",
+        "engineerName": "Eng/ Ethan Johnson",
+        "logId": "LOG463"
+    }
+]

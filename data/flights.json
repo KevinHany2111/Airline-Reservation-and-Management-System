@@ -1,0 +1,6048 @@
+[
+    {
+        "aircraft": {
+            "modelName": "Boeing 737",
+            "seats": [
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                }
+            ],
+            "totalSeats": 120
+        },
+        "arrival": "2025-11-02 12:45",
+        "departure": "2025-11-02 09:00",
+        "destination": "Los Angeles",
+        "flightAttendant": {
+            "id": "FA001",
+            "name": "Emma Watson"
+        },
+        "flightNumber": "AA123",
+        "gate": "C1",
+        "origin": "New York",
+        "pilot": {
+            "id": "PL001",
+            "name": "Captain Sarah Connor"
+        },
+        "status": "Completed"
+    },
+    {
+        "aircraft": {
+            "modelName": "Boeing 737",
+            "seats": [
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "18I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "19H"
+                }
+            ],
+            "totalSeats": 140
+        },
+        "arrival": "2025-11-03 12:45",
+        "departure": "2025-11-03 09:00",
+        "destination": "Alex",
+        "flightNumber": "AA124",
+        "gate": "C2",
+        "origin": "Cairo",
+        "status": "Scheduled"
+    },
+    {
+        "aircraft": {
+            "modelName": "Airbus A320",
+            "seats": [
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17G"
+                }
+            ],
+            "totalSeats": 121
+        },
+        "arrival": "2023-11-01 06:00",
+        "departure": "2025-11-01 02:00",
+        "destination": "Luxor",
+        "flightAttendant": {
+            "id": "FA002",
+            "name": "John Cena"
+        },
+        "flightNumber": "AA122",
+        "gate": "C3",
+        "origin": "Cairo",
+        "pilot": {
+            "id": "PL002",
+            "name": "Captain James Kirk"
+        },
+        "status": "Scheduled"
+    },
+    {
+        "aircraft": {
+            "modelName": "Boeing 737",
+            "seats": [
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                }
+            ],
+            "totalSeats": 120
+        },
+        "arrival": "2025-10-21 15:00",
+        "departure": "2025-10-21 11:00",
+        "destination": "Paris",
+        "flightAttendant": {
+            "id": "FA001",
+            "name": "Emma Watson"
+        },
+        "flightNumber": "A100",
+        "gate": "C1",
+        "origin": "Cairo",
+        "pilot": {
+            "id": "PL002",
+            "name": "Captain James Kirk"
+        },
+        "status": "Completed"
+    },
+    {
+        "aircraft": {
+            "modelName": "Boeing 737",
+            "seats": [
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                }
+            ],
+            "totalSeats": 120
+        },
+        "arrival": "2025-10-20 11:00",
+        "departure": "2025-10-20 08:00",
+        "destination": "Dubai",
+        "flightAttendant": {
+            "id": "FA001",
+            "name": "Emma Watson"
+        },
+        "flightNumber": "AA111",
+        "gate": "C2",
+        "origin": "Cairo",
+        "pilot": {
+            "id": "PL002",
+            "name": "Captain James Kirk"
+        },
+        "status": "Scheduled"
+    },
+    {
+        "aircraft": {
+            "modelName": "Boeing 737",
+            "seats": [
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                }
+            ],
+            "totalSeats": 120
+        },
+        "arrival": "2025-10-25 15:00",
+        "departure": "2025-10-25 11:00",
+        "destination": "London",
+        "flightAttendant": {
+            "id": "FA001",
+            "name": "Emma Watson"
+        },
+        "flightNumber": "AA112",
+        "gate": "C2",
+        "origin": "Cairo",
+        "pilot": {
+            "id": "PL002",
+            "name": "Captain James Kirk"
+        },
+        "status": "Completed"
+    },
+    {
+        "aircraft": {
+            "modelName": "Airbus 200",
+            "seats": [
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": false,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                }
+            ],
+            "totalSeats": 120
+        },
+        "arrival": "2025-11-01 12:00",
+        "departure": "2025-11-01 09:00",
+        "destination": "Dubai",
+        "flightNumber": "AA132",
+        "gate": "C3",
+        "origin": "Cairo",
+        "status": "Scheduled"
+    },
+    {
+        "aircraft": {
+            "modelName": "Boeing 737",
+            "seats": [
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "1D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "2D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 500,
+                    "seatClass": "First",
+                    "seatId": "3D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "4F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "5F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "6F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "7F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 350,
+                    "seatClass": "Business",
+                    "seatId": "8F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "9I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "10I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "11I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "12I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "13I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "14I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "15I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16F"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16G"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16H"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "16I"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17A"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17B"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17C"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17D"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17E"
+                },
+                {
+                    "isAvailable": true,
+                    "price": 200,
+                    "seatClass": "Economy",
+                    "seatId": "17F"
+                }
+            ],
+            "totalSeats": 120
+        },
+        "arrival": "2025-10-25 15:00",
+        "departure": "2025-10-25 01:00",
+        "destination": "New York",
+        "flightNumber": "AA111",
+        "gate": "C2",
+        "origin": "Cairo",
+        "status": "Scheduled"
+    }
+]

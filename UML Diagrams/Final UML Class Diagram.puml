@@ -1,0 +1,352 @@
+@startuml Airline Reservation System - UML Class Diagram
+title "Airline Reservation System - UML Class Diagram"
+skinparam Linetype ortho
+skinparam Nodesep 60
+skinparam Ranksep 70
+skinparam BackgroundColor white
+skinparam classAttributeIconSize 0
+
+' ===================== USER LAYER =====================
+package "User Layer" {
+    interface IUser {
+        +login(uname: string, pwd: string): bool
+        +logout(): void
+        +getRole(): string
+    }
+
+    class User {
+        -userId: int
+        -username: string
+        -passwordHash: string
+        -role: string
+        +login(uname: string, pwd: string): bool
+        +logout(): void
+        +getRole(): string
+    }
+
+    class Administrator {
+        +createUser(uname: string, pwd: string, role: string): void
+        +deleteUser(userId: int): void
+        +manageFlights(): void
+        +generateOperationalReport(month: string): void
+        +generateMaintenanceReport(month: string): void
+        +generateUserActivityReport(month: string): void
+    }
+
+    class BookingAgent {
+        +reserveForPassenger(passenger: Passenger, flight: Flight, seat: Seat, payment: IPayment): Reservation
+        +cancelReservation(reservation: Reservation): void
+        +modifyReservation(reservation: Reservation, newSeat: Seat): void
+        +searchFlights(flights: vector<Flight>): void
+        +assistCheckIn(passenger: Passenger): void
+    }
+
+    class Passenger {
+        -fullName: string
+        -contactInfo: string
+        -travelHistory: vector<string>
+        -loyaltyPoints: int
+        +searchFlights(flights: vector<Flight>): void
+        +reserve(flight: Flight, seat: Seat, payment: IPayment): Reservation
+        +cancelReservation(reservation: Reservation): void
+        +modifyReservation(reservation: Reservation, newSeat: Seat): void
+        +viewMyReservations(reservations: vector<Reservation>): void
+        +performCheckIn(reservation: Reservation): void
+        +updateContact(newContact: string): void
+        +addTravelRecord(flightNumber: string): void
+    }
+
+    IUser <|-- User
+    User <|-- Administrator
+    User <|-- BookingAgent
+    User <|-- Passenger
+    Administrator ..> BookingAgent : manages >
+    Administrator ..> Passenger : manages >
+    BookingAgent ..> Passenger : assists >
+    BookingAgent ..> Flight : books >
+    BookingAgent ..> Seat : assigns >
+    Passenger ..> Flight : books >
+    Passenger ..> Seat : assigns >
+    Passenger ..> Reservation : owns >
+}
+
+' ===================== FLIGHT MANAGEMENT LAYER =====================
+package "Flight Management Layer" {
+    class Flight {
+        -flightNumber: string
+        -origin: string
+        -destination: string
+        -departureTime: string
+        -arrivalTime: string
+        -status: string
+        -aircraft: Aircraft
+        -crew: vector<CrewMember>
+        -seats: vector<Seat>
+        +updateStatus(newStatus: string): void
+        +assignAircraft(aircraft: Aircraft): void
+        +assignCrew(crew: CrewMember): void
+        +getAvailableSeats(): vector<Seat>
+        +getAircraft(): Aircraft
+        +getFlightNumber(): string
+        +getOrigin(): string
+        +getDestination(): string
+        +getDepartureDateTimeString(): string
+        +displaySeats(classType): void
+        +toJson(): json
+        +fromJson(j: json): Flight
+    }
+
+    class Aircraft {
+        -aircraftId: int
+        -modelName: string
+        -capacity: int
+        -maintenanceSchedule: string
+        -available: bool
+        -seats: vector<Seat>
+        +isAvailable(): bool
+        +scheduleMaintenance(date: string): void
+        +getCapacity(): int
+        +getModelName(): string
+        +getSeatById(seatId: string): Seat
+        +initializeSeats(): void
+        +toJson(): json
+        +fromJson(j: json): Aircraft
+    }
+
+    class CrewMember {
+        -crewId: int
+        -name: string
+        -role: string
+        -hoursWorked: int
+        +assignToFlight(flight: Flight): void
+        +canWorkMoreHours(): bool
+    }
+
+    Flight o-- Aircraft : uses >
+    Flight o-- "0..*" CrewMember : has >
+    Flight o-- "0..*" Seat : contains >
+    Aircraft o-- "0..*" Seat : contains >
+    CrewMember ..> Flight : assigned to >
+}
+
+' ===================== RESERVATION & BOOKING LAYER =====================
+package "Reservation & Booking Layer" {
+    class Reservation {
+        -reservationId: int
+        -passenger: Passenger
+        -flight: Flight
+        -seat: Seat
+        -status: string
+        +confirm(): void
+        +cancel(): void
+        +modify(newSeat: Seat): void
+        +getFlight(): Flight
+        +toJson(): json
+        +fromJson(j: json): Reservation
+    }
+
+    class Seat {
+        -seatNumber: string
+        -classType: string
+        -isBooked: bool
+        -price: double
+        +assignPassenger(passenger: Passenger): void
+        +available(): bool
+        +isAvailableSeat(): bool
+        +getSeatPrice(): double
+        +setAvailability(avail: bool): void
+    }
+
+    interface IPayment {
+        +processPayment(amount: double): bool
+        +refund(): void
+    }
+
+    class Cash {
+        +processPayment(amount: double): bool
+        +refund(): void
+    }
+
+    class CreditCard {
+        +processPayment(amount: double): bool
+        +refund(): void
+    }
+
+    class Paypal {
+        +processPayment(amount: double): bool
+        +refund(): void
+    }
+
+    Reservation o-- Passenger : for >
+    Reservation o-- Flight : for >
+    Reservation o-- Seat : for >
+    Reservation ..> IPayment : uses >
+    Seat o-- Passenger : assigned >
+    Cash ..|> IPayment
+    CreditCard ..|> IPayment
+    Paypal ..|> IPayment
+}
+
+' ===================== OPERATIONS LAYER =====================
+package "Operations Layer" {
+    class CheckIn {
+        -reservation: Reservation
+        -boardingPass: string
+        -checkedIn: bool
+        +generateBoardingPass(): void
+        +markCheckedIn(): bool
+    }
+
+    class MaintenanceLog {
+        -logId: int
+        -aircraft: Aircraft
+        -date: string
+        -description: string
+        +addEntry(desc: string): void
+        +showLog(): void
+    }
+
+    CheckIn o-- Reservation : for >
+    MaintenanceLog o-- Aircraft : for >
+}
+
+' ===================== REPORTING LAYER =====================
+package "Reporting Layer" {
+    abstract class Report {
+        -reportId: int
+        -date: string
+        +generate(): void
+    }
+
+    class FlightReport {
+        +generate(): void
+    }
+
+    class ReservationReport {
+        +generate(): void
+    }
+
+    class MaintenanceReport {
+        +generate(): void
+    }
+
+    FlightReport --|> Report
+    ReservationReport --|> Report
+    MaintenanceReport --|> Report
+}
+
+' ===================== UTILITIES LAYER =====================
+package "Utilities Layer" {
+    class JsonHandler {
+        +loadUsers(file: string): void
+        +saveUsers(file: string): void
+        +loadFlights(file: string): void
+        +saveFlights(file: string): void
+        +loadReservations(file: string): void
+        +saveReservations(file: string): void
+    }
+
+    class Validator {
+        +validateUsername(str: string): bool
+        +validatePassword(str: string): bool
+        +validateDate(str: string): bool
+    }
+
+    class Menu {
+        +showMainMenu(): int
+        +handleLogin(auth: AuthenticationManager): shared_ptr<IUser>
+        +handleSignUp(): shared_ptr<IUser>
+        +administratorMenu(admin: shared_ptr<Administrator>): void
+        +admManageFlights(admin: shared_ptr<Administrator>): void
+        +admManageAircraft(admin: shared_ptr<Administrator>): void
+        +admManageUsers(admin: shared_ptr<Administrator>): void
+        +admGenerateReports(admin: shared_ptr<Administrator>): void
+        +bookingAgentMenu(agent: shared_ptr<BookingAgent>): void
+        +agentSearchFlights(agent: shared_ptr<BookingAgent>): void
+        +agentBookFlight(agent: shared_ptr<BookingAgent>): void
+        +agentModifyReservation(agent: shared_ptr<BookingAgent>): void
+        +agentCancelReservation(agent: shared_ptr<BookingAgent>): void
+        +passengerMenu(passenger: shared_ptr<Passenger>): void
+        +passengerSearchFlights(passenger: shared_ptr<Passenger>): void
+        +passengerBookFlight(passenger: shared_ptr<Passenger>): void
+        +passengerViewReservations(passenger: shared_ptr<Passenger>): void
+        +passengerModifyReservation(passenger: shared_ptr<Passenger>): void
+        +passengerCancelReservation(passenger: shared_ptr<Passenger>): void
+        +passengerCheckIn(passenger: shared_ptr<Passenger>): void
+        +promptInt(msg: string): int
+        +promptLine(msg: string): string
+        +buildFlightJsonInteractive(): json
+        +buildAircraftJsonInteractive(): json
+    }
+}
+
+' ===================== REPOSITORY LAYER =====================
+package "Repository Layer" {
+    class FlightRepository {
+        +add(j: json): bool
+        +updateById(fn: string, updated: json): bool
+        +removeById(fn: string): bool
+        +getAll(): vector<json>
+        +findById(fn: string): optional<json>
+        +findFlights(origin: string, destination: string, date: string): vector<json>
+    }
+
+    class PassengerRepository {
+        +getAll(): vector<json>
+        +findById(id: string): optional<json>
+        +add(j: json): bool
+        +removeById(id: string): bool
+    }
+
+    class BookingAgentRepository {
+        +getAll(): vector<json>
+        +findById(id: string): optional<json>
+        +add(j: json): bool
+        +removeById(id: string): bool
+    }
+
+    class AdministratorRepository {
+        +getAll(): vector<json>
+        +findById(id: string): optional<json>
+        +add(j: json): bool
+        +removeById(id: string): bool
+    }
+
+    class AircraftRepository {
+        +getAll(): vector<json>
+        +findById(model: string): optional<json>
+        +add(j: json): bool
+        +removeById(model: string): bool
+        +updateById(model: string, j: json): bool
+    }
+
+    class ReservationRepository {
+        +getAll(): vector<json>
+        +findById(id: string): optional<json>
+        +add(j: json): bool
+        +removeById(id: string): bool
+    }
+
+    FlightRepository ..> Flight : manages >
+    PassengerRepository ..> Passenger : manages >
+    BookingAgentRepository ..> BookingAgent : manages >
+    AdministratorRepository ..> Administrator : manages >
+    AircraftRepository ..> Aircraft : manages >
+    ReservationRepository ..> Reservation : manages >
+}
+
+' ===================== SYSTEM LAYER =====================
+package "System Layer" {
+    class AuthenticationManager {
+        +login(role: Roles, uname: string, pwd: string): shared_ptr<IUser>
+    }
+
+    class ReservationService {
+        +checkIn(reservation: Reservation): void
+    }
+
+    AuthenticationManager ..> IUser : authenticates >
+    ReservationService ..> Reservation : checks in >
+}
+
+@enduml
